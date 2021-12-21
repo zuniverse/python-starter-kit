@@ -1,0 +1,10 @@
+celery==5.1.2
+flower==1.0.0
+requests==2.26.0
+# psycopg2==2.9 # depends on libpq-dev (Debian) gcc python3-dev musl-dev
+psycopg2-binary==2.8.4
+# SQLAlchemy==1.4.27
+# SQLAlchemy-Utils==0.37.9
+simplejson==3.17.6
+icalendar==4.0.9
+python-dateutil==2.8.2
